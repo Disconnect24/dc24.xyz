@@ -1,6 +1,6 @@
 ---
-layout: page
-title: ![Disconnect24](/img/DC24logo.png)_
+layout: home
+title: Disconnect24
 ---
 Hi. We're Disconnect24, a WiiConnect24 replacement based off RiiConnect24.
 
