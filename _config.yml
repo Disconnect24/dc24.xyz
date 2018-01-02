@@ -13,25 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: Disconnect24
+email: TBD ;p
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We're a more modern replacement for WiiConnect24.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://disconnect24.xyz" # the base hostname & protocol for your site
 
 # Social
-githubUsername:
+githubUsername: Disconnect24
 twitterUsername:
-dribbbleUsername:
-codepenUsername:
 
 # Build settings
 markdown: kramdown
 
-#themeColor: purple # green, blue, orange, purple, grey
+themeColor: purple # green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:month/:title
