@@ -8,12 +8,26 @@ Our Discord server can be found at <coming soon>
  
  **Contributors**
  
-  -Spotlight
+  - Spotlight
   
-  -ZenPowerBuilder
+  hi
+my name is spotlight
+stuff breaks
+i fix it
+thanks
+
+  - ZenPowerBuilder
   
-  -MCNX
+  Bio not yet added
   
-  -RedBees
+  - MCNX
   
-  -Twin_Turbo
+  Hai im MCNX and I do stuff with the website until it breaks
+  
+  - RedBees
+  
+  a human being who does things
+  
+  - Twin_Turbo
+
+Bio not yet added
