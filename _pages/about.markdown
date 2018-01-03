@@ -18,11 +18,11 @@ thanks
 
   - ZenPowerBuilder
   
-  Bio not yet added
+  a huge geeky nerd who has motivation occasionally
   
   - MCNX
   
-  Hai im MCNX and I do stuff with the website until it breaks
+  She does stuff with the website until it breaks and then needs Spotlights help
   
   - RedBees
   
