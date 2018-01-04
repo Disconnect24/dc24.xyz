@@ -16,7 +16,7 @@ A lot of our code is based on their code, as one of our active developers is an 
 # What's the difference, mainly?
 The name! Partially kidding.
 
-RiiConnect24 uses a single server to provide all of their services, and it requires manual management. We are creating our "infastructure" so to say completely dynamic -- if you push something on our server, it'll go live instantly. We're also investigating checks to stop potential failures and better security measures for data.
+RiiConnect24 uses a single server to provide all of their services, and it requires manual management. We are creating our "infrastructure" to stay completely dynamic -- if you push something on our server, it'll go live instantly. We're also investigating checks to stop potential failures and better security measures for data.
 
 We're also using Google Cloud Platform for the main part. We may bridge off into having services like mail on Cloud Platform and file generation elsewhere, but we're attempting not to.
 
