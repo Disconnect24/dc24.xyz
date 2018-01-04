@@ -2,7 +2,7 @@
 layout: home
 title: Disconnect24
 ---
-Hi. We're Disconnect24, a WiiConnect24 revival inspired by RiiConnect24.
+Hi. We're Disconnect24, a WiiConnect24 revival inspired by [RiiConnect24](https://rc24.xyz/).
 
 ## Why Disconnect24?
 
