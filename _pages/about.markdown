@@ -30,4 +30,4 @@ thanks
   
   - Twin_Turbo
 
-Bio not yet added
+A guy who gives advice, and helps out when needed. Seems more interested in videos, though..
