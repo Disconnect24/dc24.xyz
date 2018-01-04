@@ -31,3 +31,7 @@ thanks
   - Twin_Turbo
 
 A guy who gives advice, and helps out when needed. Seems more interested in videos, though..
+
+  - TheMrIron2 (@TheMrIron2#9747)
+  
+  A guy who likes to code in different languages and play games on many different systems
