@@ -31,3 +31,7 @@ thanks
   - Twin_Turbo
 
 A guy who gives advice, and helps out when needed. Seems more interested in videos, though..
+
+  - TheMrIron2
+  
+  A guy who likes programming across a few different systems in a few different languages.
