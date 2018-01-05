@@ -5,7 +5,8 @@ Check out [material-jekyll-theme](https://github.com/alexcarpenter/material-jeky
 
 If you want to work on the website, here is how to set it up (ensure you have git installed!):
 ```
-git clone git@github.com:Disconnect24/disconnect24.xyz.git
+git clone https://github.com/Disconnect24/disconnect24.xyz.git
+cd disconnect24.xyz
 bundle install
 bundle exec jekyll serve --config _config.yml,_config.dev.yml
 ``` 
