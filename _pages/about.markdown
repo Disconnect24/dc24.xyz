@@ -43,3 +43,7 @@ A guy who gives advice, and helps out when needed. Seems more interested in vide
   - TheMrIron2 (@TheMrIron2#9747)
   
   A guy who likes to code in different languages and play games on many different systems
+  
+  - St4tch
+  
+  Usually works on the website and ~~secret projects~~ until it breaks and then needs Spotlights help
