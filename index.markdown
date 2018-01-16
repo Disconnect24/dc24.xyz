@@ -19,4 +19,4 @@ Good question! You can:
 - Open the service status page that shows the current status of our services in a nice, clean way
 - Come on into our *now public* Discord Server, which you can check out <a href="https://discord.gg/2BvqG9S"> here </a>
 
-<iframe style="float:right" src="https://discordapp.com/widget?id=397593815755522068&theme=dark" width="350" height="500" allowtransparency="true" align="center"frameborder="0"></iframe>
+<iframe align="middle" src="https://discordapp.com/widget?id=397593815755522068&theme=dark" width="350" height="500" allowtransparency="true" align="center"frameborder="0"></iframe>
