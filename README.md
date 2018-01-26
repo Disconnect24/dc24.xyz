@@ -1,5 +1,6 @@
 # disconnect24.xyz website
 Yay :) It's here! The website for Disconnect24!
+https://disconnect24.xyz
 
 Check out [material-jekyll-theme](https://github.com/alexcarpenter/material-jekyll-theme) for the base theme.
 
