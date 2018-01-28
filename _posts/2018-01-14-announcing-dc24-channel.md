@@ -10,7 +10,7 @@ Wait... what?
 You heard that right! Disconnect24 is making its own channel for Wii! This channel will do a variety of things related to DC24 and will act as the ultimate all-in-one app.
 
 # Cool! Are you working on it?
-Coding and design mockups have just started. The channel will have a forwarder so it will appear nicely on your Wii menu (thanks to Adrian/KuraiKokoro for doing this!) and it is being coded in Lua, with some C. The channel aims to fetch the latest Disconnect24 announcements/news, updates and install DC24.
+Coding and design mockups have just started. The channel will have a forwarder so it will appear nicely on your Wii menu (thanks to Adrian/KuraiKokoro for doing this!) and it is being coded in Lua, with some C [Update: It is coded entirely in C++]. The channel aims to fetch the latest Disconnect24 announcements/news, updates and install DC24.
 
 # Wait, did you say installing Disconnect from a channel?!
 Yep! The Disconnect24 Channel will have a smooth installer that installs DC24 on your Wii without the fuss of patching it on your computer. To add to this, it will also have a nice-looking GUI to make the process user-friendly to the average user. The channel will also allow you to update DC24 services as updates roll out on your Wii - saving you even more time re-patching!
