@@ -41,7 +41,7 @@ A guy who gives advice, and helps out when needed. Seems more interested in vide
 
   - TheMrIron2 (@TheMrIron2#9747)
   
-  A guy who likes to code in different languages and play games on many different systems
+  A guy who likes to code in different languages and play games on many different systems, though is not (particularly) involved with Disconnect24 right now.
   
   - St4tch
   
