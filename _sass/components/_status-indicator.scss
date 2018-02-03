@@ -1,0 +1,34 @@
+@mixin status-circle {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  font-size: 20px;
+  color: #fff;
+  line-height: 100px;
+  text-align: center;
+}
+
+.status-released {
+  @include status-circle;
+  background: #2db54f;
+}
+
+.status-beta {
+  @include status-circle;
+  background: #1863c5;
+}
+
+.status-in-progress {
+  @include status-circle;
+  background: #fad20b;
+}
+
+.status-considering {
+  @include status-circle;
+  background: #ff7200;
+}
+
+.status-not-considering {
+  @include status-circle;
+  background: #f8001a;
+}

@@ -28,3 +28,8 @@ $c__white: #ffffff;
 
 // Theme
 $t-theme: $c__indigo;
+
+// Taken from
+// https://github.com/Dogfalo/materialize/blob/8339680dddff0815d2ac8c99b583693e6ff42f0e/sass/components/_global.scss
+$table-striped-color: rgba(242, 242, 242, 0.5) !default;
+$table-border-color: rgba(0,0,0,.12) !default;
