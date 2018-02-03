@@ -3,17 +3,23 @@
    ========================================================================== */
 
 .c-article {
+  padding-top: 13.2rem
+}
 
+@media screen and (min-width: 42.5rem) {
+  .c-article{
+    padding-top: 6.6rem
+  }
+  .c-article__main{
+    padding: 7.5rem 2.5rem
+  }
 }
 
 .c-article__main {
   max-width: 76rem; // 760px;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 7.5rem;
-  padding-bottom: 7.5rem;
-  padding-right: 2.5rem;
-  padding-left: 2.5rem;
+  padding: 2.5rem 7.5rem 2.5rem 2.5rem;
   @include fs--body;
 
   > * {

@@ -1,0 +1,37 @@
+/*
+  Largely based off of https://github.com/Dogfalo/materialize/blob/8339680dddff0815d2ac8c99b583693e6ff42f0e/sass/components/_global.scss
+ */
+
+// Tables
+table, th, td {
+  border: none;
+}
+
+table {
+  width: 100%;
+  display: table;
+  border-collapse: collapse;
+  border-spacing: 0;
+
+  tr {
+    border-bottom: none;
+  }
+
+  > tbody {
+    > tr:nth-child(odd) {
+      background-color: $table-striped-color;
+    }
+
+    > tr > td {
+      border-radius: 0;
+    }
+  }
+}
+
+td, th {
+  padding: 15px 5px;
+  display: table-cell;
+  text-align: left;
+  vertical-align: middle;
+  border-radius: 2px;
+}

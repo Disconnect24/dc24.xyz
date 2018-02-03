@@ -6,7 +6,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  padding: 0 2.5rem;
+  padding: 0 2rem;
   width: 100%;
   background: $t-theme;
   z-index: 10;
@@ -32,8 +32,7 @@
   display: inline-block;
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
- // @include ff--mono(500);
-   font-family: Roboto; // Test
+  font-family: Roboto;
   @include fs--meta;
   color: $c__white;
   text-transform: uppercase;
