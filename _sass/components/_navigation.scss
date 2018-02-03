@@ -32,8 +32,7 @@
   display: inline-block;
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
- // @include ff--mono(500);
-   font-family: Roboto; // Test
+  font-family: Roboto;
   @include fs--meta;
   color: $c__white;
   text-transform: uppercase;
