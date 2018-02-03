@@ -21,4 +21,4 @@ Good question! You can:
 - Join our public Discord Server, which you can check out <a href="https://discord.gg/2BvqG9S"> here</a>.
 - Patch your Wii's message board with our brand new mail patcher!
 
-<iframe src="https://discordapp.com/widget?id=397593815755522068&theme=light" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://discordapp.com/widget?id=397593815755522068&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>

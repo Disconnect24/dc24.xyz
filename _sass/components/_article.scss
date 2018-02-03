@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .c-article {
+  background: $c__contrast-darker-color;
   padding-top: 13.2rem
 }
 
@@ -24,18 +25,19 @@
 
   > * {
     margin-bottom: 1.8rem;
-    color: rgba($c__black, .7);
+    color: rgba($c__text-color, .7);
   }
 
   a:not(.c-btn) {
     text-decoration: underline;
+    color: $c__primary-color;
   }
 
   blockquote {
     margin-left: -2.5rem;
     width: calc(100% + 5rem);
     padding: 2.5rem;
-    background: $c__light-grey;
+    background: $c__blue-grey;
   }
 
   ul, ol {

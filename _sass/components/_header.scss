@@ -4,7 +4,7 @@
 
 .c-header {
   padding: 2.5rem;
-  background: $t-theme;
+  background: $c__primary-color;
 }
 
 @media screen and (min-width: 42.5rem) {
@@ -17,7 +17,7 @@
   position: relative;
   @include ff--mono(500);
   @include fs--title;
-  color: $c__white;
+  color: $c__text-color;
   width: 55%;
   margin-left: auto;
   margin-right: auto;

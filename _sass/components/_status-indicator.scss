@@ -25,10 +25,10 @@
 
 .status-considering {
   @include status-circle;
-  background: #ff7200;
+  background: #e08c11;
 }
 
 .status-not-considering {
   @include status-circle;
-  background: #f8001a;
+  background: #ff0025;
 }

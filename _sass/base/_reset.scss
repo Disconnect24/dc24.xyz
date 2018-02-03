@@ -24,6 +24,7 @@ html {
 body {
   @include ff--sans-serif(400);
   -webkit-font-smoothing: antialiased;
+  background: $c__contrast-lighter-color;
 }
 
 article,
@@ -85,7 +86,7 @@ svg {
 a {
   background-color: transparent;
   text-decoration: none;
-  color: $t-theme;
+  color: $c__link-color;
 }
 
 a:active, a:hover { outline: 0; }

@@ -8,7 +8,7 @@
   left: 0;
   padding: 0 2rem;
   width: 100%;
-  background: $t-theme;
+  background: $c__primary-color;
   z-index: 10;
 
   &:after {
@@ -34,7 +34,7 @@
   padding-bottom: 2.5rem;
   font-family: Roboto;
   @include fs--meta;
-  color: $c__white;
+  color: $c__text-color;
   text-transform: uppercase;
 
   &:not(:last-of-type) {
@@ -54,6 +54,11 @@
 
   &:hover:after,
   &.is-active:after {
-    background: $c__white;
+    background: $c__contrast-darker-color;
   }
+}
+
+.c-navigation,
+.c-header {
+  background: $c__primary-color;
 }
