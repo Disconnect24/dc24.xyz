@@ -29,18 +29,14 @@ We plan to have:
   
 >  does stuff with the website until it breaks and then needs Spotlights help
   
-  - RedBees
-  
->   a human being who does things
-  
-  - Twin_Turbo
-
->  A guy who gives advice, and helps out when needed. Seems more interested in videos, though..
-
-  - TheMrIron2 (@TheMrIron2#9747)
+   - TheMrIron2 (@TheMrIron2#9747)
   
 >  A guy who likes to code in different languages and play games on many different systems, though is not (particularly) involved with Disconnect24 right now.
   
   - St4tch
   
 >  Usually works on the website and ~~secret projects~~ until it breaks and then needs Spotlights help
+
+  - CornierKhan1
+  
+>  I scurry around finding things to do most of the time, filling in holes that I have some form of knowledge in. Mainly tackling the DC24 Channel.
