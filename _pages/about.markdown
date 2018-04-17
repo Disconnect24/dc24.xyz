@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-We're a WiiConnect24 replacement intended to be a better fit for the community and developers than other WiiConnect24 replacements. The name was provided by Twin_Turbo (@Twin_Turbo#8726 on Discord) -- thanks to them! 
+Disconnect24 is a branch of RiiConnect24 that discovers new ways to deliver content to Wiis. The name was provided by Twin_Turbo (@Twin_Turbo#8726 on Discord) -- thanks to them! 
 
 <br>
 
@@ -39,4 +39,4 @@ We plan to have:
 
   - CornierKhan1
   
->  I scurry around finding things to do most of the time, filling in holes that I have some form of knowledge in. Mainly tackling the DC24 Channel.
+>  I scurry around finding things to do most of the time, filling in holes that I have some form of knowledge in.
