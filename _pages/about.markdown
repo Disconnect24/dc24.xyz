@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-NOTICE: Disconnect24 will shut down on 4th of July, 2018, as the servers are expiring and will not be renewed as the original developers have moved on. Thank you to everyone who used, tested or developed for DC24!
+NOTICE: Disconnect24 has shut down as of July 2018, as the servers are expiring and will not be renewed as the original developers have moved on. Thank you to everyone who used, tested or developed for DC24!
 
 Disconnect24 was a branch of RiiConnect24 that discovers new ways to deliver content to Wiis. The name was provided by Twin_Turbo (@Twin_Turbo#8726 on Discord) -- thanks to them! 
 
