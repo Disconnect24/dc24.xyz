@@ -3,15 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-Disconnect24 is a branch of RiiConnect24 that discovers new ways to deliver content to Wiis. The name was provided by Twin_Turbo (@Twin_Turbo#8726 on Discord) -- thanks to them! 
+
+NOTICE: Disconnect24 has shut down as of July 2018, as the servers are expiring and will not be renewed as the original developers have moved on. Thank you to everyone who used, tested or developed for DC24!
+
+Disconnect24 was a branch of RiiConnect24 that discovers new ways to deliver content to Wiis. The name was provided by Twin_Turbo (@Twin_Turbo#8726 on Discord) -- thanks to them! 
 
 <br>
 
-Current project status: in heavy initial development.
-We plan to have:
-
-- Mail, EVC voting, announcement services provided by Google App Engine
-- Serving of static Forecast, News, EVC data soon off of either flexible App Engine or Compute Engine.
+Current project status: terminated.
    
 
 
