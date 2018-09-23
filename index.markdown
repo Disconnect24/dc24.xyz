@@ -11,6 +11,8 @@ Disconnect24 is a developer's edition of RiiConnect24. This edition often has ne
 ## Wait, why don't we all just use DC24 if it has more features?
 These new features are often untested and especially unstable. We only recommend using this branch over the stable RiiConnect24 branch if you are interested in the latest developments and you want to try the latest features, before they are marked as tested and stable and subsequently merged into RiiConnect24.
 
+Currently, only the mail service is being provided **and won't let you interact with members using RiiConnect24**, and the Nintendo Channel is being tested with it (not available publicly yet), so we highly recommend you use RiiConnect24.
+
 Most things on DC24, including services that are already available in RC24, have been modified and updated with newly discovered ways to deliver the content. Usually, the only real harm is that the service doesn't work, but there is always a chance that one of our services may be unstable and adversely affect your Wii, and in theory could even brick the console. While we have never had any reports of bricking, you should be forewarned if you are interested in Disconnect24.
 
 
