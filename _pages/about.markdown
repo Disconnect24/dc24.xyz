@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Disconnect24 is a branch of RiiConnect24 that discovers new ways to deliver content to Wiis. The name was provided by Twin_Turbo (@Twin_Turbo#8726 on Discord) -- thanks to them! 
+Disconnect24 is a project that restores discontinued console services for testing. The name was provided by Twin_Turbo (@Twin_Turbo#8726 on Discord) -- thanks to them! 
 
 <br>
 
