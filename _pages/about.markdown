@@ -17,9 +17,9 @@ We plan to have:
 
  **Noted Contributors**
  
-  - Spotlight
+  - Snoot
   
->   hi, my name's spotlight. if stuff breaks, i fix it. that's all, thanks
+>   hi, my name's snoot. if stuff breaks, i fix it. that's all, thanks
 
   - ZenPowerBuilder
   
