@@ -40,3 +40,7 @@ We plan to have:
   - CornierKhan1
   
 >  I scurry around finding things to do most of the time, filling in holes that I have some form of knowledge in.
+
+  - TheMegaEagle
+
+>  Person who created Disconnect24 Discord Bot and fixes typos on github. I'm supposed to be working on Wii U stuff eventually:tm:
