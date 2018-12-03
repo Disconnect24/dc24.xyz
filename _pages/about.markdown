@@ -27,7 +27,7 @@ We plan to have:
   
   - MCNX
   
->  does stuff with the website until it breaks and then needs Spotlights help
+>  does stuff with the website until it breaks and then needs Snoots help
   
    - TheMrIron2 (@TheMrIron2#9747)
   
