@@ -5,7 +5,7 @@ title: Disconnect24
 Hi. We're Disconnect24, an open independent service that's designing software to restore discontinued services for consoles.
 
 ## What is DC24?
-Disconnect24 is a development service designed to test and provide services for consoles (like the Wii™) that have been discontinued.
+Disconnect24 is a development service designed to test and provide services for the Nintendo Wii that have been discontinued.
 
 ### Well, what can I do here?
 
