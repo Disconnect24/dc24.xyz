@@ -43,4 +43,4 @@ We plan to have:
 
   - TheMegaEagle
 
->  Person who created Disconnect24 Discord Bot and fixes typos on github. I'm supposed to be working on Wii U stuff eventually:tm:
+>  Person who created Disconnect24 Discord Bot and fixes typos on github. I'm supposed to be working on Wii U stuff eventually™
