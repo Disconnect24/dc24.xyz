@@ -5,5 +5,5 @@ group :jekyll_plugins do
   gem "jekyll-github-metadata", "~> 2.9.4"
   # For easier announcements
   # `jekyll post`, `jekyll draft`, etc
-  gem "jekyll-compose", "~> 0.8.0"
+  gem "jekyll-compose", "~> 0.9.0"
 end
